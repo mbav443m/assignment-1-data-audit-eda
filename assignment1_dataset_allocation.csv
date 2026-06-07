@@ -1,0 +1,14 @@
+﻿USN,Last_Name,First_Name,Assigned_Dataset,Dataset_File,Additional Info
+1,Kerachan Muraleedharan,Chaithanya,Air Quality,AirQualityUCI.csv,https://archive.ics.uci.edu/dataset/360/air+quality
+2,Abraham,Allen,Auto MPG,auto_mpg.csv,https://archive.ics.uci.edu/dataset/9/auto+mpg
+3,Joseph,Justin Thomas,Student Dropout,student-dropout.csv,https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success
+4,Mor,Divyam,Wine Quality (White),winequality-white.csv,https://archive.ics.uci.edu/dataset/186/wine+quality
+5,Jesluck,Neha Maria,Default of Credit Card Clients,default of credit card clients.xls,https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients
+6,Nallathambi,Naresh Prasad,Raisin,Raisin_Dataset.xlsx,https://archive.ics.uci.edu/dataset/850/raisin+dataset
+7,Sherigar,Sathvik Nagaraj,Bike Sharing,bike_sharing.csv,https://archive.ics.uci.edu/dataset/275/bike+sharing+dataset
+8,Ramkumar,Pranav,Online Retail,Online Retail.xlsx,https://archive.ics.uci.edu/dataset/352/online+retail
+9,Bura,Pravalika,Dry Bean,Dry_Bean_Dataset.xlsx,https://archive.ics.uci.edu/dataset/602/dry+bean+dataset
+10,Thandayamparambil Suresh Babu,Aadithyan,Wholesale Customers,Wholesale customers data.csv,https://archive.ics.uci.edu/dataset/292/wholesale+customers
+11,Sapra,Ashmit,Bank Marketing,bank-full.csv,https://archive.ics.uci.edu/dataset/222/bank+marketing
+12,Gowda,Akshay Ramesh,Student Performance,student_performance.csv,https://archive.ics.uci.edu/dataset/320/student+performance
+13,Nareja,Nihar,Car Evaluation,car_evaluation.csv,https://archive.ics.uci.edu/dataset/19/car+evaluation
